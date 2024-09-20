@@ -1,0 +1,19 @@
+
+#container{
+    height:613px;
+    width:611px;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    text-align: center;
+    justify-content: center;
+}
+div{
+    height:150px;
+    width:150px;
+    border:1px solid black;
+    display:flex;
+    flex-wrap: wrap;
+    gap:0rem;
+}
